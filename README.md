@@ -1,3 +1,3 @@
 # JuliaSet
 
-Generate Julia set y using multithreads in Java.
+Generate Julia set by using multithreads in Java.
