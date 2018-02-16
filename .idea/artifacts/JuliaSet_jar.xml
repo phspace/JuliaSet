@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JuliaSet:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JuliaSet_jar</output-path>
+    <root id="archive" name="JuliaSetGeneration.jar">
+      <element id="module-output" name="Real-Time_Project" />
+    </root>
+  </artifact>
+</component>
